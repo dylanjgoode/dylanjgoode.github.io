@@ -10,6 +10,8 @@ collection: portfolio
 This project is a hands-on demonstration of the two most common communication patterns in microservices: Synchronous (HTTP) and Asynchronous (Message Queues).
 It includes a Side-by-Side Visualization so you can feel the difference in latency and user experience.
 
+![Sync vs Async](/images/syncvsasu.png) 
+
 ### What You Will Learn
 
 - **Coupling**: Why Service A shouldn't crash just because Service B is down.
