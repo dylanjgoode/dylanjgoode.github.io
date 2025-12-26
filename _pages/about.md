@@ -14,7 +14,3 @@ Technical Product Manager at **IBM**, shaping the next generation of **mission-c
   <figcaption>MQ Summit Berlin 2025</figcaption>
 </figure>
 
-
-### AI Product Management
-
-Being an AI PM means maintaining a disciplined understanding of how the field is evolving, then pressure-testing those developments against real product constraints. It’s about forming and validating strong hypotheses, spotting unexpected capabilities or failure modes early, and turning that insight into bold but defensible product decisions. The goal isn’t just to avoid risk, it’s to create strategic advantage by building right at the edge of what the technology can reliably deliver.
