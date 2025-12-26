@@ -1,5 +1,5 @@
 ---
-title: "The Difference Between Agentic AI and Mission-Critical Agentic AI"
+title: "What is Mission-Critical Agentic AI?"
 
 excerpt: "We’re reaching a point where agents are becoming long-running, cross-system actors. Once an AI system can sustain coherent work for hours, it stops behaving like a chatbot and starts behaving like an automated worker. That shift turns reliability into the real bottleneck. Guaranteed delivery, durable state, retries, and failure isolation stop being “nice to have” and become the minimum bar. The models have crossed the threshold. The infrastructure hasn’t."
 collection: mission_critical
