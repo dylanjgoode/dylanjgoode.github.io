@@ -2,6 +2,7 @@
 title: "Sync vs Async Microservices"
 excerpt: "A hands-on demonstration of Synchronous (HTTP) vs Asynchronous (Message Queues) communication patterns in microservices."
 collection: portfolio
+order: 7
 ---
 
 **[Sync vs Async Microservices](https://github.com/dylanjgoode/sync-vs-async)**

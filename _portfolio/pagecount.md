@@ -2,6 +2,7 @@
 title: "PageCount"
 excerpt: "A reading tracker to build daily habits, track books, and visualize streaks."
 collection: portfolio
+order: 5
 ---
 
 **[PageCount](https://github.com/dylanjgoode/pagecount)**

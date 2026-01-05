@@ -2,6 +2,7 @@
 title: "El Palabrero"
 excerpt: "A personal project exploring AI-driven language learning tools."
 collection: portfolio
+order: 3
 ---
 
 **[El Palabrero](https://github.com/dylanjgoode/El_Palabrero)**

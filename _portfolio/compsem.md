@@ -2,6 +2,7 @@
 title: "CompSem -- NLI"
 excerpt: "Neural NLI models trained on SNLI and evaluated with SentEval."
 collection: portfolio
+order: 2
 ---
 
 **[CompSem -- NLI](https://github.com/dylanjgoode/CompSem)**

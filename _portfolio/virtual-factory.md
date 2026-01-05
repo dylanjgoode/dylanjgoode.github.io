@@ -2,11 +2,14 @@
 title: "Virtual Factory MQTT Sandbox"
 excerpt: "An MQTT playground that simulates a small factory with devices, alarms, and a live dashboard."
 collection: portfolio
+order: 1
 ---
 
 **[Virtual Factory MQTT Sandbox](https://github.com/dylanjgoode/Virtual-Factory)**
 
 A local, hands-on MQTT environment that simulates machines, sensors, alarms, and a controller with a live dashboard so you can explore real-world messaging patterns.
+
+![Virtual Factory MQTT dashboard](/images/virtual-factory-dashboard.png)
 
 ### Highlights
 

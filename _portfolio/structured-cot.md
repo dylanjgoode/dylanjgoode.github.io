@@ -2,6 +2,7 @@
 title: "Structured CoT"
 excerpt: "Enhancing abstract analogy reasoning in LLMs with a novel zero-shot prompting method."
 collection: portfolio
+order: 6
 ---
 
 **[Beyond “Think Step-by-Step”: Enhancing Abstract Analogy Reasoning in LLMs with Structured CoT](https://github.com/jakub-podolak/AbstractAnalogies)**

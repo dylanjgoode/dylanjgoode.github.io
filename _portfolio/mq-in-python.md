@@ -2,6 +2,7 @@
 title: "IBM MQ with Python on macOS"
 excerpt: "A practical guide to running IBM MQ Developer Edition in containers on Apple Silicon and connecting via Python."
 collection: portfolio
+order: 4
 ---
 
 **[Run IBM MQ with Python MQI on macOS (Apple Silicon)](https://github.com/dylanjgoode/MQ-in-Python)**
