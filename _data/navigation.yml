@@ -6,9 +6,6 @@ main:
   - title: "Projects"
     url: /portfolio/
   
-  - title: "Bookshelf"
-    url: /bookshelf/
-  
   - title: "Mission Critical Agentic AI"
     url: /mission-critical-agentic-ai/
 
