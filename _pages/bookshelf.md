@@ -3,6 +3,7 @@ layout: archive
 title: "Bookshelf"
 permalink: /bookshelf/
 author_profile: true
+published: false
 ---
 
 Here are some of the books I've been reading.

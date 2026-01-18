@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+{: .notice--info}
+The new site is available at [personal-website-zft5fod8b-dylanjgoodes-projects.vercel.app](https://personal-website-zft5fod8b-dylanjgoodes-projects.vercel.app/).
+
 <!-- VERSION A: IMPACT-FIRST (Recommended for Anthropic, Stripe, Revolut) -->
 
 
